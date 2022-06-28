@@ -15,3 +15,7 @@ https://www.kaggle.com/datasets?tags=2303-Movies+and+TV+Shows
 Screenshot
 
 ![](https://raw.githubusercontent.com/hanidilla/UAS_BIGDATA/master/gambar/2.PNG)
+
+LINK 
+
+https://drive.google.com/drive/folders/1JTqceNlTTMjXPGbpJcW75OVhaJZgj9Qj?usp=sharing
